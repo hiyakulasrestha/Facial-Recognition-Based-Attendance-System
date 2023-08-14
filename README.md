@@ -6,12 +6,12 @@ Face recognition is one of the mostly used biometrics. It can be used for securi
 ## Experimental Setup
 
 ### Software:
-OpenCV
-Dlib
-Numpy
+• OpenCV
+• Dlib
+• Numpy
 
 ### Hardware:
-Web camera
+• Web camera
 
 ## Methodology
 
